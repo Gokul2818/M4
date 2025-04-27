@@ -1,3 +1,5 @@
+## NAME:GOKUL S
+## DATE: 27.04.2025
 # EX-16-LEFT-SHIFT-OPERATION
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
